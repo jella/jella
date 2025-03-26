@@ -18,6 +18,7 @@ Testes e Garantia de Qualidade (QA): Execução de testes manuais e automatizado
 Gestão de Produtos: Priorização de backlog, definição de histórias de usuário e alinhamento estratégico com stakeholders.
 Aprendizado Contínuo: Adaptação a novas tecnologias e frameworks, com interesse em explorar tendências e práticas emergentes no mercado.
 Facilitação: Facilitação de reuniões, workshops e dinâmicas colaborativas.
+
 🔧 Interesses Atuais :
 
 Python (Automação, Scripts, Desenvolvimento Web)
